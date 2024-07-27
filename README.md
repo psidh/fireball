@@ -1,6 +1,3 @@
-Here's a `README.md` file template for your C++ game project. It provides an overview, installation instructions, usage details, and other relevant information.
-
-
 # Fireball Game
 
 Fireball is a simple terminal-based game implemented in C++ using the `ncurses` library. The player controls a widget that can move left and right to shoot bullets at incoming boxes. The goal is to hit all the boxes and avoid letting any box touch the widget.
@@ -23,7 +20,7 @@ Fireball is a simple terminal-based game implemented in C++ using the `ncurses` 
 ### Clone the Repository
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/psidh/Games-CPP
 cd fireball
 ```
 
@@ -53,8 +50,8 @@ Execute the compiled program:
 
 ## Controls
 
-- **Arrow Keys**: Move the widget left and right.
-- **Spacebar**: Shoot bullets.
+- _Arrow Keys_: Move the widget left and right.
+- _Spacebar_: Shoot bullets.
 
 ## Contributing
 
